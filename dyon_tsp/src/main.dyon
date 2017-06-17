@@ -1,0 +1,110 @@
+fn main() {
+    map := [
+        [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+        [0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+        [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+        [0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+        [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+        [0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+        [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+        [0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+    ]
+    count_cities := sum i, j {map[i][j]}
+    println(count_cities)
+    cities := []
+    for i, j {
+        if map[i][j] == 1 {push(mut cities, (j, i))}
+    }
+    // println(cities)
+    distances := [[0; count_cities]; count_cities]
+    for i, j {
+        distances[i][j] = |cities[j] - cities[i]|
+    }
+    // println(distances)
+
+    weights := [[0; count_cities]; count_cities]
+    // println(weights)
+
+    r := load_data(file: "test.dyon")
+    if is_ok(r) {
+        println("Loaded data")
+        weights = unwrap(r)
+    }
+
+    for s 100000 {
+        for k 1000 {
+            city_indices := sift i count_cities {clone(i)}
+            random_route := []
+            for i count_cities {
+                k := floor(random() * len(city_indices))
+                push(mut random_route, city_indices[k])
+                swap(mut city_indices, k, len(city_indices) - 1)
+                pop(mut city_indices)
+            }
+            random_route_length := sum i {
+                a := random_route[i]
+                b := random_route[(i + 1) % count_cities]
+                distances[a][b]
+            }
+            // println(random_route_length)
+
+            alpha := 0.95
+            w := alpha ^ random_route_length
+            // println(w)
+
+            for i {
+                a := random_route[i]
+                b := random_route[(i + 1) % count_cities]
+                weights[a][b] += w
+            }
+        }
+        _ := save(data: weights, file: "test.dyon")
+
+        // println(weights)
+
+        shortest_route := [0]
+        for i count_cities-1 {
+            prev := shortest_route[i]
+            max := max j {
+                if any k {shortest_route[k] == j} {continue}
+                weights[prev][j]
+            }
+            where := where(max)
+            push(mut shortest_route, where[0])
+        }
+
+        // println(shortest_route)
+        /*
+        for i {
+            println(cities[shortest_route[i]])
+        }
+        */
+
+        shortest_route_length := sum i {
+            a := shortest_route[i]
+            b := shortest_route[(i + 1) % count_cities]
+            distances[a][b]
+        }
+        print(str(s) + ": ")
+        println(shortest_route_length)
+    }
+
+    // 0.3:
+    // 263.30367147922516
+    //
+    // 261.2089297771454
+    // 258.4327335357666
+    //
+    // 260.46077501773834
+    // 247.34161043167114
+
+    // 0.1:
+    // 254.93941605091095
+    //
+    // 249.64343118667603
+    //
+    // 239.66333901882172
+
+    // 158.72303521633148
+    // 141.75240647792816
+}
