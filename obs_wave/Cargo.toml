@@ -1,0 +1,7 @@
+[package]
+name = "obs_wave"
+version = "0.1.0"
+authors = ["Sven Nilsen <bvssvni@gmail.com>"]
+
+[dependencies]
+image = "0.13.0"
