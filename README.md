@@ -1,6 +1,11 @@
 # observer_selection_effects
 Various experiments in optimization algorithms derived from probabilistic observer selection effects
 
+Blog posts:
+
+- [2017-09-12 More Real Than Reality](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-09-12-more-real-than-reality.md)
+- [2017-06-17 Does Nature Have Intelligence and Can We Harvest It?](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-16-does-nature-have-intelligence-and-can-we-harvest-it.md)
+
 ### Importance of observer selection effects in exponential reference classes
 
 The [measure problem](https://en.wikipedia.org/wiki/Measure_problem_(cosmology)) in cosmology is one of the big unsolved questions in science, because it deals with the question "why are we here?".
