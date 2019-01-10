@@ -24,7 +24,7 @@ and concludes that observations are more likely to be made in an exponential ref
 Other curious observations indicating an exponential reference class in our universe:
 
 - The staggering complexity of the human brain
-- The relative early formation of earth compared to expected formed planets
+- The relative early formation of Earth compared to expected formed planets
 - Fine tuning of physical parameters
 
 If we could learn more about the exponential reference class, then we could make more accurate predictions
