@@ -1,5 +1,5 @@
 # Reading Sequences  
-# for Learning About Observer Selection Effects
+for Learning About Observer Selection Effects
 
 ### Big Picture
 
