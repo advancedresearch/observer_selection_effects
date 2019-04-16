@@ -1,6 +1,8 @@
 # observer_selection_effects
 Various experiments in optimization algorithms derived from probabilistic observer selection effects
 
+[Reading Sequences of Learning About Observer Selection Effects](https://github.com/advancedresearch/observer_selection_effects/blob/master/sequences.md)
+
 Blog posts:
 
 - [2017-09-12 More Real Than Reality](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-09-12-more-real-than-reality.md)
