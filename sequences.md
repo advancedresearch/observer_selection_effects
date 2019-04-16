@@ -1,4 +1,4 @@
-# Learning Sequences for Observer Selection Effects
+# Reading Sequences for Learning About Observer Selection Effects
 
 ### Big Picture
 
