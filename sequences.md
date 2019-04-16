@@ -11,6 +11,7 @@ for Learning About Observer Selection Effects
 - [Exponential Reference Class](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/exponential-reference-class.pdf)
 - [Path Reference Class](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/path-reference-class.pdf)
 - [Exponential Path Reference Class](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/exponential-path-reference-class.pdf)
+- [Noisy Path Reference Class](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/noisy-path-reference-class.pdf)
 
 ### Cellular Automaton Theory
 
