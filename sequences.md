@@ -14,6 +14,7 @@ for Learning About Observer Selection Effects
 - [Noisy Path Reference Class](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/noisy-path-reference-class.pdf)
 - [Flat Reference Class](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/flat-reference-class.pdf)
 - [Path Reference Class Duality](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/path-reference-class-duality.pdf)
+- [Exponential Path Reference Class Duality Problem](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/exponential-path-reference-class-duality-problem.pdf)
 
 ### Cellular Automaton Theory
 
