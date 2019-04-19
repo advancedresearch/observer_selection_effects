@@ -20,6 +20,7 @@ for Learning About Observer Selection Effects
 - [Generalized Pascal's Triangle](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/generalized-pascals-triangle.pdf)
 - [Odd-Boundary Conditions](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/odd-boundary-conditions.pdf)
 - [Expand-Boundary Conditions](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/expand-boundary-conditions.pdf)
+- [Wall vs Fire](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/wall-vs-fire.pdf)
 
 ### Logic and Semantics
 
