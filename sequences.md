@@ -11,6 +11,10 @@ for Learning About Observer Selection Effects
 
 - [TSP Test Data](http://www.math.uwaterloo.ca/tsp/data/)
 
+### Physics Background Theory
+
+- [Eternal inflation](https://en.wikipedia.org/wiki/Eternal_inflation)
+
 ### Reference Classes
 
 - [Exponential Reference Class](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/exponential-reference-class.pdf)
