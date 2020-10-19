@@ -7,6 +7,10 @@ for Learning About Observer Selection Effects
 - [Upper and Lower Bounds on Harvesting Intelligence From Nature](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/upper-and-lower-bounds-on-harvesting-intelligence-from-nature.pdf)
 - [Universe in Absence of Consciousness](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/universe-in-absence-of-consciousness.pdf)
 
+### Resources
+
+- [TSP Test Data](http://www.math.uwaterloo.ca/tsp/data/)
+
 ### Reference Classes
 
 - [Exponential Reference Class](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/exponential-reference-class.pdf)
