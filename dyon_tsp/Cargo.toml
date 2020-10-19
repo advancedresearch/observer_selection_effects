@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Sven Nilsen <bvssvni@gmail.com>"]
 
 [dependencies]
-dyon = "0.24.5"
+dyon = "0.45.6"
