@@ -1,4 +1,4 @@
-# observer_selection_effects
+# Observer Selection Effects
 Various experiments in optimization algorithms derived from probabilistic observer selection effects
 
 [Reading Sequences for Learning About Observer Selection Effects](https://github.com/advancedresearch/observer_selection_effects/blob/master/sequences.md)
