@@ -42,3 +42,4 @@ for Learning About Observer Selection Effects
 - [The Principle of Anthropic Universality](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/the-principle-of-anthropic-universality.pdf)
 - [Time Isomorphism](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/time-isomorphism.pdf)
 - [Consciousness as Turing Machines](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/consciousness-as-turing-machines.pdf)
+- [The Whole Universe as State](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/the-whole-universe-as-state.pdf)
