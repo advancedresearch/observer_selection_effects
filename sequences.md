@@ -34,10 +34,14 @@ for Learning About Observer Selection Effects
 - [Expand-Boundary Conditions](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/expand-boundary-conditions.pdf)
 - [Wall vs Fire](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/wall-vs-fire.pdf)
 
+### Algorithms
+
+- [Learning From Randomness](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/learning-from-randomness.pdf)
+- [Exponential Superposition](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/exponential-superposition.pdf)
+
 ### Logic and Semantics
 
 - [Everett Interpretation as Assumption](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/everett-interpretation-as-assumption.pdf)
-- [Learning From Randomness](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/learning-from-randomness.pdf)
 - [Semantics of Physical States](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/semantics-of-physical-states.pdf)
 - [The Principle of Anthropic Universality](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/the-principle-of-anthropic-universality.pdf)
 - [Time Isomorphism](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/time-isomorphism.pdf)
