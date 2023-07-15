@@ -47,3 +47,7 @@ for Learning About Observer Selection Effects
 - [Time Isomorphism](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/time-isomorphism.pdf)
 - [Consciousness as Turing Machines](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/consciousness-as-turing-machines.pdf)
 - [The Whole Universe as State](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/the-whole-universe-as-state.pdf)
+
+### Probabilities
+
+- [Conditional Probabilities in Exponential Reference Classes](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/conditional-probabilities-in-exponential-reference-classes.pdf)
