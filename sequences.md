@@ -47,6 +47,7 @@ for Learning About Observer Selection Effects
 - [Time Isomorphism](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/time-isomorphism.pdf)
 - [Consciousness as Turing Machines](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/consciousness-as-turing-machines.pdf)
 - [The Whole Universe as State](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/the-whole-universe-as-state.pdf)
+- [Replacing Newton's 1st Law with Two New Laws](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/replacing-newtons-1st-law-with-two-new-laws.pdf)
 
 ### Probabilities
 
